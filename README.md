@@ -55,7 +55,7 @@ thanks to the translators.
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://github.com/Xoxomy9955/MusicPlayer?organization=Xoxomy9955&organization=Xoxomy9955)](https://heroku.com/deploy)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://deploy.safone.tech)
 
 Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 
